@@ -16,9 +16,9 @@ body{
 
 .icon-list li {
     display: flex;
-    align-items: center;
+    align-items: left;
     gap: 8px;
-    justify-self: center;
+    justify-self: left;
 }
 
 .icon-list li svg {
@@ -54,11 +54,12 @@ hr{
 
 .skill-icon-list li {
     display: flex;
-    align-items: center;
+    align-items: left;
     gap: 8px;
-    justify-self: center;
+    justify-self: left;
 }
 
 .skill-icon-list li svg {
     flex-shrink: 0;
 }
+
